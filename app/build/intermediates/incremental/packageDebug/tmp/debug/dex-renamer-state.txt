@@ -1,0 +1,4 @@
+#Fri Apr 28 17:28:49 ICT 2023
+base.0=D\:\\Tugas UMN\\Semester 6\\Mobile Application Programming - LAB\\Week 07\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
